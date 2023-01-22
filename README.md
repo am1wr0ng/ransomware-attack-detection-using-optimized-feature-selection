@@ -1,4 +1,7 @@
 # ransomware-attack-detection-using-optimized-feature-selection
+
+##### colab basis
+
 1. GFS 모델 실험
     - [x]  a. 전체라벨링 파일로 원핫인코딩
     - [x]  b. a 파일로 Feture Selection 모델 돌리기 (첨부한 사이트 참고)
